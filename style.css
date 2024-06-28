@@ -1,0 +1,9 @@
+body{
+    background-color: yellowgreen;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text-center{
+    text-align: center;
+}
